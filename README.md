@@ -4,4 +4,4 @@
 
 Screen Gif
 
-![]("./src/assets/images/gif.mov")
+![]("../../assets/images/gif.mov")
