@@ -4,4 +4,4 @@
 
 Screen Gif
 
-<img src="./src/assets/images/gif.mp4"/>
+![]("./src/assets/images/gif.mp4")
