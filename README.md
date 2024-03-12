@@ -4,4 +4,4 @@
 
 Screen Gif
 
-<img src="../../src/assets/images/gif.mov"/>
+<img src="./src/assets/images/gif.mov"/>
