@@ -4,4 +4,4 @@
 
 Screen Gif
 
-<img source="./src/assets/images/gif.mov"/># BMW_CLONE_W-TH_REACT_NAT-VE
+![]("./src/assets/images/gif.mov")
